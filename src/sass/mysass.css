@@ -1,0 +1,36 @@
+.project-container {
+  color:#ffd369;
+  
+      
+}
+.college-name
+{
+  /* padding: 0.5rem; */
+
+  font-size: 1.5rem;
+  
+  
+}
+.Education{
+   padding: 0.5rem;
+  display: flex;
+}
+.form-education1,.form-field1{
+  margin-left: 7rem;
+}
+.stream{
+  padding: 0.5rem;
+}
+.optional{
+  margin-left: 7rem;
+}
+h1{
+  text-align: center;
+}
+Form{
+  margin-top:4rem;
+}
+.removebtn{
+  background-color: #ffd369;
+  width:25%;
+}
